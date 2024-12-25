@@ -1,0 +1,11 @@
+Model Information:
+* title:	Electrical Switch Board / Power Socket
+* source:	https://sketchfab.com/3d-models/electrical-switch-board-power-socket-bf57fb8705f4478c899db3f3c4a74596
+* author:	bhagathgoud (https://sketchfab.com/bhagathgoud)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Electrical Switch Board / Power Socket" (https://sketchfab.com/3d-models/electrical-switch-board-power-socket-bf57fb8705f4478c899db3f3c4a74596) by bhagathgoud (https://sketchfab.com/bhagathgoud) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

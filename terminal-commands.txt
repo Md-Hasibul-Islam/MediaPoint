@@ -1,0 +1,11 @@
+# three.js
+npm install --save three
+
+# vite
+npm install --save-dev vite
+
+# run the server
+npx vite
+
+# Then copy the localhost address and open it on browser.
+Local: http://localhost:5173/

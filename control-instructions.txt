@@ -1,0 +1,30 @@
+Keyboard Instructions for Interactive 3D Scene
+==============================================
+
+Camera Movement
+===============
+Arrow Right (→): Move the camera to the right.
+Arrow Left (←): Move the camera to the left.
+Arrow Up (↑): Move the camera forward (closer to the scene).
+Arrow Down (↓): Move the camera backward (further from the scene).
+1: Move the camera upward.
+0: Move the camera downward.
+
+TV Control
+==========
+P: Play or pause the video playing on the TV screen.
+C: Switch to the next video in the video list.
+V: Switch the TV screen display to video mode.
+I: Switch the TV screen display to image mode (starts image slideshow).
+
+Background Music Control
+========================
+M: Mute or unmute the background music.
++ (Plus): Increase the background music volume.
+- (Minus): Decrease the background music volume.
+B: Switch to the next background music track.
+
+General Instructions
+====================
+Mouse Move: Controls the position of the light in the room. Moving the mouse left/right changes the light's position around the TV, and moving up/down changes the light's height.
+R (Reset): Reset the scene to its original state (this feature is not implemented in the code but is a common control).
